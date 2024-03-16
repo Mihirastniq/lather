@@ -1,0 +1,7 @@
+admin username = cafeadmin
+password = cafeadmin
+
+
+
+ 
+	
